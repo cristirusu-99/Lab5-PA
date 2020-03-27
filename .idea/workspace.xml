@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d11362a-928b-4268-8cd3-0af16b150f67" name="Default Changelist" comment="" />
+    <list default="true" id="9d11362a-928b-4268-8cd3-0af16b150f67" name="Default Changelist" comment="Am rezolvat problema cu path-ul de save, uitam sa mai pun un set de &quot;\\&quot;.">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab_05.pdf3.ser" beforeDir="false" afterPath="$PROJECT_DIR$/output/lab_05.pdf3.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab5/com/compulsory/ExternalCatalog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab5/com/compulsory/ExternalCatalog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/compulsory/ExternalCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/compulsory/ExternalCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt2.ser" beforeDir="false" afterPath="$PROJECT_DIR$/output/test.txt2.ser" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +21,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1ZOtm6ch5lTvAFRwozs3u6rWCQP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -57,38 +70,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584722123048</updated>
-      <workItem from="1584722128341" duration="4125000" />
+      <workItem from="1584722128341" duration="7058000" />
+      <workItem from="1584730908287" duration="643000" />
+      <workItem from="1585323283714" duration="572000" />
+      <workItem from="1585323940427" duration="662000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Am rezolvat problema cu path-ul de save, uitam sa mai pun un set de &quot;\\&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Am rezolvat problema cu path-ul de save, uitam sa mai pun un set de &quot;\\&quot;." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="706" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584726128660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="706" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584726128660" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584726388003">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1585324595877">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584726388003" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584726388003">
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585324595877" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1585324432674">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584726388003" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584726388002">
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585324432674" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1585324595918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584726388002" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584726388003">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585324595918" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1585324595916">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584726388003" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1584724834245">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585324595916" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1585324595915">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584724834245" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585324595915" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1585324595916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585324595916" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585323942328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585323942328" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585324485971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585324485971" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1584728781852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584728781852" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584725775140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

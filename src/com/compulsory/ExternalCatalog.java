@@ -29,7 +29,7 @@ public class ExternalCatalog {
             Document document = (Document)docIterator.next();
 
             try {
-                FileOutputStream fos = new FileOutputStream(document.getName() + document.getId() + ".ser");
+                FileOutputStream fos = new FileOutputStream(path + "\\" + document.getName() + document.getId() + ".ser");
                 ObjectOutputStream oos = new ObjectOutputStream(fos);
                 oos.writeObject(document);
                 oos.close();
